@@ -16,3 +16,10 @@ library/src/main/webapp/static/styles/0.css
 library/src/main/webapp/static/app.bundle.js
 library/src/main/webapp/static/polyfills.bundle.js
 library/src/main/webapp/static/styles/0.css
+library-frontend/node_modules/**
+library/src/main/webapp/static/**
+library/.settings/**
+library/src/main/webapp/static/app.bundle.js
+library/src/main/webapp/static/polyfills.bundle.js
+library/src/main/webapp/static/styles/0.css
+library-frontend/.vscode/settings.json
